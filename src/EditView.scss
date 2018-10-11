@@ -1,0 +1,25 @@
+.button {
+    height:30px;
+    width: 100px;
+
+    // display: absolute;
+    // top: 0;
+    // left: -100px;
+    border-radius: 10px;
+    font-size: 13px;
+    border: none;
+}
+
+.Linkbutton {
+    display: inline-block;
+    background: rgb(196, 196, 196);
+    height:20px;
+    font-size: 13px;
+    padding:5px;
+    width: 100px;
+    text-decoration: none;
+    color: black;
+    margin: 20px;
+    border-radius: 10px;
+    border: none;
+}
